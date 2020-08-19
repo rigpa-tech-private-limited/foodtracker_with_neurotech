@@ -1,0 +1,454 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:2:1-163:12
+INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:2:1-163:12
+INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:2:1-163:12
+MERGED from [:scheck-utils] /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Common/Android/scheck-utils/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:neurotec-biometrics-gui-android:] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/af5cc08cd9c542b46e307785122d4bf4/AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.cdflynn:checkview:v1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1d69ef6cb6a429ef3afa92b7f1c2ea41/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/3b1b28c3b6d1d510c5f78eb461f138f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/5a46ca6ae276e70e13ab94aa040233a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/82fb44297a5c93e702ccc6b03464537d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.orhanobut:logger:2.2.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/50cf570e266c3da69fbec62bed09c409/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/dd474644ea8a3485838bc8a47d67e410/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/5dcccf26715d372fbed2d5d354ca17cd/AndroidManifest.xml:2:1-12:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/78c9617e583ab6339ca930a748a97f62/AndroidManifest.xml:2:1-9:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/8ba445d747f228ebfe0b85d02338ffa8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/e7627e5f1b8ddb6cde28410a7565bb99/AndroidManifest.xml:17:1-22:12
+MERGED from [:neurotec-licensing-gui-android:] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/b6a32cb0e6932c663d1302694e3ff511/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/4b67e256598deff794be08c5c1d1a1cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/96b5dfccc994bbfd0c8ca76b0365b44d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/c75f1f7dffa642a3286a4551cc19318e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/9c5adff25d3ad6b532d436a2f73e49fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/86deb2326257bd5acad650d1416f8ebe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/52f19b9c019464747905961d3dfc8654/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/6dc213f47be6db215fe27f0477e9fb08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1d24c9a2ff30051076a407b63d41eaee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/2e0180ed8d8ac174ad24d86bbb698d80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/38638ac5920231a162b78a7c73662ecf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/32d1ffb72d7a87f51f97fd15be82f6a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/2f89ffdf97e50e017997afa9d8afbdf9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/6d9878495dd6c5407b677cab78e09aab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/3c5308ac7ddd1f963d7a9725ca3a7cd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/11090b728c4b3ad8efa6822958c5874e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/f31de7ae6e3c365056baf223ad85156d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1d9596f8752b70d8365852d1400e6fa5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/181f3e3b4590fe5b839a5ff978bd0d6c/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/35a1378645c6d9b2f010e3b7c0850265/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/d7ef8599f7f9072c7e4bc3570482e0eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/d4093c314b4c91dd5a25d3e9684ace90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/6a95ab36a3304cd19f7e57e8b1b1ee42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/f5b7183a3e19319089c5e9f87f8e11cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1fe4204f4b826fa298b75a2be78cec2e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/cccb23e03e77368d62d6eccc75bd061c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/acfd27ec5b0d05a860e2ad8abfadc02a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/900baf92f5d273a2ccc2e70aa7567c8b/AndroidManifest.xml:17:1-22:12
+MERGED from [pl.droidsonroids:relinker:1.3.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/45faf350a10bf85e36942e475eda61ca/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:2:1-163:12
+INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:2:1-163:12
+	package
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:4:5-35
+	android:versionName
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+		INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+		INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.CAMERA
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:15:5-17:47
+	tools:ignore
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:16:9-52
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:18:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:19:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:20:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:22:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:23:5-25:47
+	tools:ignore
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:24:9-57
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:26:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:27:22-77
+uses-feature#android.hardware.usb.host
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:29:5-62
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:29:19-59
+application
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:31:5-161:19
+MERGED from [com.android.volley:volley:1.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/82fb44297a5c93e702ccc6b03464537d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/82fb44297a5c93e702ccc6b03464537d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/dd474644ea8a3485838bc8a47d67e410/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/dd474644ea8a3485838bc8a47d67e410/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/5dcccf26715d372fbed2d5d354ca17cd/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/5dcccf26715d372fbed2d5d354ca17cd/AndroidManifest.xml:10:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/8ba445d747f228ebfe0b85d02338ffa8/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/8ba445d747f228ebfe0b85d02338ffa8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/11090b728c4b3ad8efa6822958c5874e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/11090b728c4b3ad8efa6822958c5874e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/f31de7ae6e3c365056baf223ad85156d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/f31de7ae6e3c365056baf223ad85156d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/181f3e3b4590fe5b839a5ff978bd0d6c/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/181f3e3b4590fe5b839a5ff978bd0d6c/AndroidManifest.xml:9:5-20
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:38:9-45
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/11090b728c4b3ad8efa6822958c5874e/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:36:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:34:9-43
+	tools:ignore
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:41:9-48
+	android:largeHeap
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:37:9-33
+	android:icon
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:35:9-38
+	android:allowBackup
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:33:9-36
+	android:theme
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:39:9-79
+	android:usesCleartextTraffic
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:40:9-44
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:32:9-60
+activity#co.vaango.attendance.multibiometric.multimodal.FoodCountActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:42:9-90
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:42:19-78
+activity#co.vaango.attendance.multibiometric.multimodal.AttendanceViewActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:43:9-86
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:43:19-83
+activity#co.vaango.attendance.multibiometric.Features.ShowStudentList.StudentListActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:44:9-46:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:45:13-88
+activity#co.vaango.attendance.multibiometric.multimodal.WelcomeBackActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:47:9-49:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:48:13-74
+activity#co.vaango.attendance.multibiometric.multimodal.FaceRecognitionActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:50:9-52:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:52:13-49
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:51:13-78
+activity#co.vaango.attendance.multibiometric.multimodal.FlowFormActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:53:9-55:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:55:13-49
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:54:13-71
+activity#co.vaango.attendance.multibiometric.multimodal.WelcomeScreenActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:56:9-58:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:58:13-49
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:57:13-76
+activity#co.vaango.attendance.multibiometric.multimodal.MultiModalActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:59:9-61:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:60:13-73
+activity#co.vaango.attendance.multibiometric.multimodal.DeviceOTPActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:62:9-64:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:63:13-72
+activity#co.vaango.attendance.app.InfoActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:65:9-67:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:66:13-45
+activity#co.vaango.attendance.app.DirectoryViewer
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:68:9-70:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:69:13-48
+activity#com.neurotec.licensing.gui.ActivationActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:71:9-74:63
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:73:13-49
+	android:theme
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:74:13-60
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:72:13-73
+activity#co.vaango.attendance.multibiometric.multimodal.SplashActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:85:9-96:20
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:88:13-49
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:87:13-45
+	tools:ignore
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:90:13-47
+	android:theme
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:89:13-86
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:86:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:91:13-95:29
+action#android.intent.action.MAIN
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:92:17-69
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:92:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:94:17-77
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:94:27-74
+activity#co.vaango.attendance.multibiometric.multimodal.FaceActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:97:9-101:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:100:13-50
+	android:hardwareAccelerated
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:99:13-47
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:98:13-67
+activity#co.vaango.attendance.multibiometric.multimodal.FingerActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:102:9-106:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:105:13-52
+	android:hardwareAccelerated
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:104:13-47
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:103:13-69
+activity#co.vaango.attendance.multibiometric.multimodal.IrisActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:107:9-111:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:111:13-49
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:110:13-50
+	android:hardwareAccelerated
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:109:13-47
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:108:13-67
+activity#co.vaango.attendance.multibiometric.multimodal.VoiceActivity
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:112:9-116:52
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:116:13-49
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:115:13-51
+	android:hardwareAccelerated
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:114:13-47
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:113:13-68
+activity#co.vaango.attendance.multibiometric.preferences.MultimodalPreferences
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:117:9-124:20
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:120:13-49
+	android:parentActivityName
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:119:13-87
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:118:13-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:121:13-123:101
+	android:value
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:123:17-98
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:122:17-63
+activity#co.vaango.attendance.multibiometric.preferences.FacePreferences
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:125:9-133:20
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:129:13-49
+	android:parentActivityName
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:128:13-81
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:127:13-50
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:126:13-71
+activity#co.vaango.attendance.multibiometric.preferences.FingerPreferences
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:134:9-142:20
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:138:13-49
+	android:parentActivityName
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:137:13-83
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:136:13-52
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:135:13-73
+activity#co.vaango.attendance.multibiometric.preferences.IrisPreferences
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:143:9-151:20
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:147:13-49
+	android:parentActivityName
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:146:13-81
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:145:13-50
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:144:13-71
+activity#co.vaango.attendance.multibiometric.preferences.VoicePreferences
+ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:152:9-160:20
+	android:screenOrientation
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:156:13-49
+	android:parentActivityName
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:155:13-82
+	android:label
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:154:13-51
+	android:name
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml:153:13-72
+uses-sdk
+INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+MERGED from [:scheck-utils] /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Common/Android/scheck-utils/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:scheck-utils] /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Common/Android/scheck-utils/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:neurotec-biometrics-gui-android:] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/af5cc08cd9c542b46e307785122d4bf4/AndroidManifest.xml:7:2-8:35
+MERGED from [:neurotec-biometrics-gui-android:] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/af5cc08cd9c542b46e307785122d4bf4/AndroidManifest.xml:7:2-8:35
+MERGED from [com.github.cdflynn:checkview:v1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1d69ef6cb6a429ef3afa92b7f1c2ea41/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.cdflynn:checkview:v1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1d69ef6cb6a429ef3afa92b7f1c2ea41/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/3b1b28c3b6d1d510c5f78eb461f138f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/3b1b28c3b6d1d510c5f78eb461f138f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/5a46ca6ae276e70e13ab94aa040233a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/5a46ca6ae276e70e13ab94aa040233a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/82fb44297a5c93e702ccc6b03464537d/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/82fb44297a5c93e702ccc6b03464537d/AndroidManifest.xml:7:5-43
+MERGED from [com.orhanobut:logger:2.2.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/50cf570e266c3da69fbec62bed09c409/AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:2.2.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/50cf570e266c3da69fbec62bed09c409/AndroidManifest.xml:6:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/dd474644ea8a3485838bc8a47d67e410/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/dd474644ea8a3485838bc8a47d67e410/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/5dcccf26715d372fbed2d5d354ca17cd/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/5dcccf26715d372fbed2d5d354ca17cd/AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/78c9617e583ab6339ca930a748a97f62/AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/78c9617e583ab6339ca930a748a97f62/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/8ba445d747f228ebfe0b85d02338ffa8/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/8ba445d747f228ebfe0b85d02338ffa8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/e7627e5f1b8ddb6cde28410a7565bb99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/e7627e5f1b8ddb6cde28410a7565bb99/AndroidManifest.xml:20:5-44
+MERGED from [:neurotec-licensing-gui-android:] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/b6a32cb0e6932c663d1302694e3ff511/AndroidManifest.xml:7:2-8:35
+MERGED from [:neurotec-licensing-gui-android:] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/b6a32cb0e6932c663d1302694e3ff511/AndroidManifest.xml:7:2-8:35
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/4b67e256598deff794be08c5c1d1a1cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/4b67e256598deff794be08c5c1d1a1cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/96b5dfccc994bbfd0c8ca76b0365b44d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/96b5dfccc994bbfd0c8ca76b0365b44d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/c75f1f7dffa642a3286a4551cc19318e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/c75f1f7dffa642a3286a4551cc19318e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/9c5adff25d3ad6b532d436a2f73e49fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/9c5adff25d3ad6b532d436a2f73e49fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/86deb2326257bd5acad650d1416f8ebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/86deb2326257bd5acad650d1416f8ebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/52f19b9c019464747905961d3dfc8654/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/52f19b9c019464747905961d3dfc8654/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/6dc213f47be6db215fe27f0477e9fb08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/6dc213f47be6db215fe27f0477e9fb08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1d24c9a2ff30051076a407b63d41eaee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1d24c9a2ff30051076a407b63d41eaee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/2e0180ed8d8ac174ad24d86bbb698d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/2e0180ed8d8ac174ad24d86bbb698d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/38638ac5920231a162b78a7c73662ecf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/38638ac5920231a162b78a7c73662ecf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/32d1ffb72d7a87f51f97fd15be82f6a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/32d1ffb72d7a87f51f97fd15be82f6a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/2f89ffdf97e50e017997afa9d8afbdf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/2f89ffdf97e50e017997afa9d8afbdf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/6d9878495dd6c5407b677cab78e09aab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/6d9878495dd6c5407b677cab78e09aab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/3c5308ac7ddd1f963d7a9725ca3a7cd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/3c5308ac7ddd1f963d7a9725ca3a7cd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/11090b728c4b3ad8efa6822958c5874e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/11090b728c4b3ad8efa6822958c5874e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/f31de7ae6e3c365056baf223ad85156d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/f31de7ae6e3c365056baf223ad85156d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1d9596f8752b70d8365852d1400e6fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1d9596f8752b70d8365852d1400e6fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/181f3e3b4590fe5b839a5ff978bd0d6c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/181f3e3b4590fe5b839a5ff978bd0d6c/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/35a1378645c6d9b2f010e3b7c0850265/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/35a1378645c6d9b2f010e3b7c0850265/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/d7ef8599f7f9072c7e4bc3570482e0eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/d7ef8599f7f9072c7e4bc3570482e0eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/d4093c314b4c91dd5a25d3e9684ace90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/d4093c314b4c91dd5a25d3e9684ace90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/6a95ab36a3304cd19f7e57e8b1b1ee42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/6a95ab36a3304cd19f7e57e8b1b1ee42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/f5b7183a3e19319089c5e9f87f8e11cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/f5b7183a3e19319089c5e9f87f8e11cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1fe4204f4b826fa298b75a2be78cec2e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/1fe4204f4b826fa298b75a2be78cec2e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/cccb23e03e77368d62d6eccc75bd061c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/cccb23e03e77368d62d6eccc75bd061c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/acfd27ec5b0d05a860e2ad8abfadc02a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/acfd27ec5b0d05a860e2ad8abfadc02a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/900baf92f5d273a2ccc2e70aa7567c8b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/900baf92f5d273a2ccc2e70aa7567c8b/AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids:relinker:1.3.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/45faf350a10bf85e36942e475eda61ca/AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids:relinker:1.3.1] /Users/bharadwaj/.gradle/caches/transforms-2/files-2.1/45faf350a10bf85e36942e475eda61ca/AndroidManifest.xml:5:5-43
+INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+		INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+		ADDED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
+		INJECTED from /Users/bharadwaj/Desktop/Projects/VAANGO/Neurotec_Biometric_11_1_SDK/Samples/Biometrics/Android/food-tracker/src/main/AndroidManifest.xml
